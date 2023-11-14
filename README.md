@@ -23,7 +23,7 @@ I'm currently in the training in Software Quality Assurance.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdhanifbd&theme=gruvbox&hide_border=false)<br/>	
 
 
-## 🏆 GitHub Trophies	
+## 🏆 My GitHub Trophies	
 ![](https://github-profile-trophy.vercel.app/?username=mdhanifbd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
@@ -33,7 +33,4 @@ I'm currently in the training in Software Quality Assurance.
 ---
 [![](https://visitcount.itsvg.in/api?id=mdhanifbd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Snake Eating My Contribution Graph	
-![snake gif](https://github.com/mdhanifbd/mdhanifbd/blob/output/github-contribution-grid-snake.svg)	
 
-0 comments on commit daa5d8e
